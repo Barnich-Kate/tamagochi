@@ -1,0 +1,2 @@
+# tamagochi
+Exam Project "Tamagochi"
